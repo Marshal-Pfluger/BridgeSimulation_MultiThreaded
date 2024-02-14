@@ -1,0 +1,200 @@
+Name:    Marshal Pfluger
+Course:  COSC 4302 Operating Systems
+Project: Seven
+
+
+
+NorthBound farmer 1 wants to use bridge
+
+NorthBound farmer 1 is on the bridge
+
+NorthBound farmer 2 wants to use bridge
+
+NorthBound farmer 2 is on the bridge
+
+NorthBound farmer 1 is off the bridge
+
+SouthBound farmer 3 wants to use bridge
+
+NorthBound farmer 2 is off the bridge
+
+SouthBound farmer 3 is on the bridge
+
+SouthBound farmer 4 wants to use bridge
+
+SouthBound farmer 4 is on the bridge
+
+NorthBound farmer 5 wants to use bridge
+
+SouthBound farmer 4 is off the bridge
+
+SouthBound farmer 6 wants to use bridge
+
+SouthBound farmer 6 is on the bridge
+
+SouthBound farmer 7 wants to use bridge
+
+SouthBound farmer 7 is on the bridge
+
+SouthBound farmer 3 is off the bridge
+
+NorthBound farmer 8 wants to use bridge
+
+SouthBound farmer 9 wants to use bridge
+
+SouthBound farmer 9 is on the bridge
+
+NorthBound farmer 10 wants to use bridge
+
+SouthBound farmer 9 is off the bridge
+
+NorthBound farmer 11 wants to use bridge
+
+SouthBound farmer 12 wants to use bridge
+
+SouthBound farmer 12 is on the bridge
+
+SouthBound farmer 13 wants to use bridge
+
+SouthBound farmer 13 is on the bridge
+
+SouthBound farmer 14 wants to use bridge
+
+SouthBound farmer 14 is on the bridge
+
+SouthBound farmer 7 is off the bridge
+
+SouthBound farmer 6 is off the bridge
+
+NorthBound farmer 15 wants to use bridge
+
+SouthBound farmer 12 is off the bridge
+
+SouthBound farmer 16 wants to use bridge
+
+SouthBound farmer 16 is on the bridge
+
+SouthBound farmer 14 is off the bridge
+
+NorthBound farmer 17 wants to use bridge
+
+SouthBound farmer 13 is off the bridge
+
+NorthBound farmer 18 wants to use bridge
+
+NorthBound farmer 19 wants to use bridge
+
+NorthBound farmer 20 wants to use bridge
+
+NorthBound farmer 21 wants to use bridge
+
+NorthBound farmer 22 wants to use bridge
+
+SouthBound farmer 16 is off the bridge
+
+NorthBound farmer 22 is on the bridge
+
+NorthBound farmer 15 is on the bridge
+
+NorthBound farmer 5 is on the bridge
+
+NorthBound farmer 10 is on the bridge
+
+NorthBound farmer 18 is on the bridge
+
+NorthBound farmer 19 is on the bridge
+
+NorthBound farmer 20 is on the bridge
+
+NorthBound farmer 11 is on the bridge
+
+NorthBound farmer 17 is on the bridge
+
+NorthBound farmer 21 is on the bridge
+
+NorthBound farmer 8 is on the bridge
+
+SouthBound farmer 23 wants to use bridge
+
+NorthBound farmer 24 wants to use bridge
+
+NorthBound farmer 24 is on the bridge
+
+NorthBound farmer 10 is off the bridge
+
+NorthBound farmer 24 is off the bridge
+
+NorthBound farmer 25 wants to use bridge
+
+NorthBound farmer 25 is on the bridge
+
+NorthBound farmer 26 wants to use bridge
+
+NorthBound farmer 26 is on the bridge
+
+NorthBound farmer 25 is off the bridge
+
+SouthBound farmer 27 wants to use bridge
+
+NorthBound farmer 28 wants to use bridge
+
+NorthBound farmer 28 is on the bridge
+
+NorthBound farmer 17 is off the bridge
+
+NorthBound farmer 26 is off the bridge
+
+NorthBound farmer 29 wants to use bridge
+
+NorthBound farmer 29 is on the bridge
+
+NorthBound farmer 30 wants to use bridge
+
+NorthBound farmer 30 is on the bridge
+
+NorthBound farmer 21 is off the bridge
+
+NorthBound farmer 5 is off the bridge
+
+NorthBound farmer 28 is off the bridge
+
+SouthBound farmer 31 wants to use bridge
+
+NorthBound farmer 20 is off the bridge
+
+NorthBound farmer 22 is off the bridge
+
+NorthBound farmer 18 is off the bridge
+
+SouthBound farmer 32 wants to use bridge
+
+NorthBound farmer 8 is off the bridge
+
+NorthBound farmer 19 is off the bridge
+
+NorthBound farmer 11 is off the bridge
+
+NorthBound farmer 15 is off the bridge
+
+NorthBound farmer 29 is off the bridge
+
+NorthBound farmer 30 is off the bridge
+
+SouthBound farmer 27 is on the bridge
+
+SouthBound farmer 23 is on the bridge
+
+SouthBound farmer 31 is on the bridge
+
+SouthBound farmer 32 is on the bridge
+
+SouthBound farmer 31 is off the bridge
+
+SouthBound farmer 32 is off the bridge
+
+SouthBound farmer 23 is off the bridge
+
+SouthBound farmer 27 is off the bridge
+
+Would you like to run the program again?
+Press '0' to exit or enter key to re run.
